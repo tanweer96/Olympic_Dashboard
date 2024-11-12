@@ -50,6 +50,8 @@ Total Team = DISTINCTCOUNT(Table_1[Team])
 
 -6.  Clustered Column Chart : To analyze how many athletes are in age band of 0-18, 19-30, 31-45, and 46-60.
 
-# Snapshot of Dashboard Page 1
+## Snapshot of Dashboard Page 1
 ![Page_1](https://github.com/tanweer96/Olympic_Dashboard/blob/main/Page_1.png)
 
+## Snapshot of Dashboard Page 1
+![Page_2]()
