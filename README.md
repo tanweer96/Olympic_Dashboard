@@ -53,5 +53,5 @@ Total Team = DISTINCTCOUNT(Table_1[Team])
 ## Snapshot of Dashboard Page 1
 ![Page_1](https://github.com/tanweer96/Olympic_Dashboard/blob/main/Page_1.png)
 
-## Snapshot of Dashboard Page 1
-![Page_2]()
+## Snapshot of Dashboard Page 2
+![Page_2](https://github.com/tanweer96/Olympic_Dashboard/blob/main/Page_2.png)
