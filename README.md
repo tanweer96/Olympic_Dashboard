@@ -30,7 +30,7 @@ Total Medals = [Gold] + [Silver] + [Bronze]
 -5. Clustered Bar Chart : To show distribution of medals (Bronze, Silver and Gold) by Year.
 
 
-Athletes Page:
+### Athletes Page:
 
 -1. Card Visual : Four card visuals for countries participated, total athletes, sports played and total team which have participated in the olympics
 For creating above four card visuals, four New measure was created,
